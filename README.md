@@ -13,7 +13,7 @@ gymnasium[accept-rom-license]
 python DuelingDQN.py --env_name BoxingNoFrameskip-v4
 ```
 ## 2. Mujoco
-### 2.1 Requirments
+### 2.1 Requirements
 ```
 python=3.7
 torch==1.8.2
